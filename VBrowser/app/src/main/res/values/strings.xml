@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VBrowser</string>
+
+    <string name="http_protocol">http://</string>
+    <string name="history_file_name">history.txt</string>
+    <string name="favorites_file_name">favorites.txt</string>
+    <string name="redirect_search_url">www.google.com/search?q=</string>
+
+    <string name="favourite_add">Favourite add</string>
+    <string name="search_query">Not url,this is search query</string>
+
+    <string name="exception">Exception</string>
+
+</resources>
